@@ -7,7 +7,9 @@ import os
 urls = ['https://api.uouin.com/cloudflare.html', 
         'https://ip.164746.xyz'
         ]
-
+urls = ['https://www.wetest.vip/api/cf2dns/get_cloudflare_ip', 
+        'https://www.wetest.vip/page/cloudflare/address_v4.html'
+        ]
 # 正则表达式用于匹配IP地址
 ip_pattern = r'\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}'
 
